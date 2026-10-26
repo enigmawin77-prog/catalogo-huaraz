@@ -1,0 +1,4 @@
+/* index.css — punto de entrada de estilos cyberpunk
+   Re-exporta el sistema de diseño definido en styles/ */
+@import './styles/globals.css';
+@import './styles/components.css';

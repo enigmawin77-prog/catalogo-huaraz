@@ -1,0 +1,25 @@
+:root {
+  --bg-0: #07090f;
+  --bg-1: #0d1220;
+  --bg-2: #121a2e;
+  --cyan: #00f5ff;
+  --magenta: #ff2bd6;
+  --violet: #8b5cf6;
+  --green: #39ff88;
+  --white: #eaf2ff;
+  --muted: #94a3b8;
+  --danger: #ff4d6d;
+  --warn: #ffc14d;
+  --glass: rgba(13, 18, 32, 0.72);
+  --glass-strong: rgba(7, 9, 15, 0.88);
+  --line: rgba(0, 245, 255, 0.22);
+  --line-magenta: rgba(255, 43, 214, 0.28);
+  --shadow-cyan: 0 0 24px rgba(0, 245, 255, 0.18);
+  --shadow-magenta: 0 0 24px rgba(255, 43, 214, 0.16);
+  --radius: 14px;
+  --nav-h: 76px;
+  --font-display: 'Orbitron', sans-serif;
+  --font-body: 'Rajdhani', sans-serif;
+  --font-mono: 'Share Tech Mono', ui-monospace, monospace;
+  --container: 1180px;
+}
